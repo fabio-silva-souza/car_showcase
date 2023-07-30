@@ -15,12 +15,12 @@ const Navbar = () => {
             height={18}
             className="object-contain"
           />
-
-          <CustomButton 
-          title="Sign in"
+        </Link>
+        
+        <CustomButton 
+          title="Sign In"
           btnType="button"
           containerStyles="text-primary-blue rounded-full bg-white min-w-[130px]" />
-        </Link>
 
       </nav>
     </header>
