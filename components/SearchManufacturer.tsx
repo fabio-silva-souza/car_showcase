@@ -1,7 +1,7 @@
 "use client";
 
 import Image from 'next/image';
-import { useState, Fragment } from 'react';
+import { useState, Fragment } from 'react'; 
 
 import {Combobox, Transition } from '@headlessui/react';
 
